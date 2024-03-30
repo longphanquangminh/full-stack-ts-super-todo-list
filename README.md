@@ -9,7 +9,7 @@ Một ứng dụng Quản lý Công việc được xây dựng bằng Preact ch
 1. **Sao chép Repository:**
 
    ```bash
-   git clone https://github.com/longphanquangminh/phanquangminhlong-seeds-todolist-application.git
+   git clone https://github.com/longphanquangminh/full-stack-ts-super-todo-list.git
    ```
 
 2. **Di chuyển đến Thư mục Front-End:**
